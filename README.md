@@ -1,0 +1,2 @@
+# AutoItStudio
+AutoitStudio projects
